@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+In this applications users can sign in as an admin or user and be directed to screens that will allow that admin to post to the user and the user to view the admins posts. These posts are add to the Firestore database.
 
 A few resources to get you started if this is your first Flutter project:
 
